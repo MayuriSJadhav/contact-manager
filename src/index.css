@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body{
+  font-family: 'Ubuntu', sans-serif !important;
+  background-color: antiquewhite !important;
+}
+
+.contact-img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+/* https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain */
+/* https://th.bing.com/th/id/OIP.7WfwlTMoWKclXNvF26ImZQHaHa?pid=ImgDet&w=200&h=200&c=7&dpr=1.3 */
+/* https://cdn4.iconfinder.com/data/icons/circle-avatars-1/128/028_girl_avatar_profile_woman_shirt-2-512.png */
+/* https://th.bing.com/th/id/OIP.scExuNqSeL_zvoAQbH0gWAAAAA?w=217&h=218&c=7&r=0&o=5&dpr=1.3&pid=1.7 */
+/* https://th.bing.com/th/id/OIP.kMQ14gs4OXX7BqCaoqruOQHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7 */
+/* https://th.bing.com/th/id/OIP.7WfwlTMoWKclXNvF26ImZQHaHa?pid=ImgDet&w=200&h=200&c=7&dpr=1.3 */

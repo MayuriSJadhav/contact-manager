@@ -1,0 +1,89 @@
+{
+  "contacts": [
+    {
+      "id": "A@123",
+      "name": "kuhu",
+      "photo": "https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain",
+      "contact": 8234567890,
+      "email": "kuhu09@gmail.com",
+      "title": "Software Engg",
+      "company": "Tcs",
+      "group": 1
+    },
+    {
+      "id": "A@124",
+      "name": "mayuri",
+      "photo": "https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain",
+      "contact": 8888888888,
+      "email": "mayuri17@gmail.com",
+      "title": "Software Engg",
+      "company": "HCL",
+      "group": 2
+    },
+    {
+      "id": "A@125",
+      "name": "Ruhi",
+      "photo": "https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain",
+      "contact": 9234509876,
+      "email": "ruhi45@gmail.com",
+      "title": "Software Engg",
+      "company": "tcs",
+      "group": 3
+    },
+    {
+      "id": "A@126",
+      "name": "divya",
+      "photo": "https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain",
+      "contact": 823456789,
+      "email": "divya32@gmail.com",
+      "title": "Software Engg",
+      "company": "tcs",
+      "group": 1
+    },
+    {
+      "id": "A@127",
+      "name": "piyu",
+      "photo": "https://th.bing.com/th/id/OIP.sPSO-D7UclO8abGaLfBDywAAAA?rs=1&pid=ImgDetMain",
+      "contact": 9876543216,
+      "email": "piyu@gmail.com",
+      "title": "Software Engg",
+      "company": "Infosys",
+      "group": 4
+    },
+    {
+      "id": "6400",
+      "name": "sharayu",
+      "photo": "https://th.bing.com/th/id/OIP.U6l7IdSJeC_ROdjJa16yLwHaH_?w=183&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "9797979797",
+      "email": "sharayu12@gmail.com",
+      "title": "software Engineer",
+      "company": "Zensar"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "colleague"
+    },
+    {
+      "id": 2,
+      "name": "family"
+    },
+    {
+      "id": 3,
+      "name": "friend"
+    },
+    {
+      "id": 4,
+      "name": "colleague"
+    },
+    {
+      "id": 5,
+      "name": "school"
+    },
+    {
+      "id": 6,
+      "name": "college"
+    }
+  ]
+}
